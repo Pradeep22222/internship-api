@@ -6,7 +6,8 @@
 
 ## Note
 
-1. The application has few environment defined
+1. The application has few environment variables defined
    <br>
    i. MONGO_CLIENT
+   <br>
    ii. PORT
